@@ -12,6 +12,8 @@ A desktop file search application built in C#, allowing users to search for docu
 - **Search Term Input** — dialog box to enter the search query
 - **Clickable Results** — matched files are displayed as clickable links that open the file directly
 
+- > **Note:** Search is limited to files within a designated "sear" folder (not the entire system).
+
 ## 🛠️ Tech Stack
 
 - **Language:** C#
